@@ -1,5 +1,8 @@
 Data Science jobs trending across the world - PowerBI Dashboard
 
+[Goggle_Trends.pdf](https://github.com/user-attachments/files/17277760/Goggle_Trends.pdf)
+
+
 Project Highlights:
 
 -	Data connection & Transformation :  Connect and integrate Google Trend API data into PowerBI dashboard.
